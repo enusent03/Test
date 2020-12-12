@@ -1,1 +1,416 @@
-
+{
+  "Servers" : [ {
+    "Category" : 0,
+    "DomainOrIP" : "www.viber.com.edgekey.net.vc1.vicath-vpn.ml",
+    "Flag" : "sg",
+    "Name" : "SG - 01"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "www.viber.com.edgekey.net.vc2.vicath-vpn.ml",
+    "Flag" : "sg",
+    "Name" : "SG - 02"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "www.viber.com.edgekey.net.vc3.vicath-vpn.ml",
+    "Flag" : "sg",
+    "Name" : "SG - 03"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "www.viber.com.edgekey.net.vc4.vicath-vpn.ml",
+    "Flag" : "sg",
+    "Name" : "SG - 04"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "www.viber.com.edgekey.net.vc5.vicath-vpn.ml",
+    "Flag" : "sg",
+    "Name" : "SG - 05"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "www.viber.com.edgekey.net.vc6.vicath-vpn.ml",
+    "Flag" : "sg",
+    "Name" : "SG - 06"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "www.viber.com.edgekey.net.vc7.vicath-vpn.ml",
+    "Flag" : "sg",
+    "Name" : "SG - 07"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "www.viber.com.edgekey.net.vc8.vicath-vpn.ml",
+    "Flag" : "sg",
+    "Name" : "SG - 08"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "www.viber.com.edgekey.net.vc9.vicath-vpn.ml",
+    "Flag" : "sg",
+    "Name" : "SG - 09"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "www.viber.com.edgekey.net.vc10.vicath-vpn.ml",
+    "Flag" : "sg",
+    "Name" : "SG - 10"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api.twitter.com.vc1.vicath-vpn.ml",
+    "Flag" : "sg",
+    "Name" : "Gigastories - 01"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api.twitter.com.vc2.vicath-vpn.ml",
+    "Flag" : "sg",
+    "Name" : "Gigastories - 02"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "www.viber.com.edgekey.net.vc11.vicath-vpn.ml",
+    "Flag" : "ph",
+    "Name" : "PH - 01"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "www.viber.com.edgekey.net.vc12.vicath-vpn.ml",
+    "Flag" : "ph",
+    "Name" : "US - 01"
+  } ],
+  "Payloads" : [ {
+    "Format" : 0,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "Sju0VNZWLitRTMu4x9YEzWteO1SrdAT93Xw0kHYJQmVWUPahB0nMh1q8d8NPtPcPmdpvWSZXtaBpudMWdpNKpL93kXNUBQ+9DL/l+rlKeaJ6r50VZ/oe+69js+gGNIfNPThcAznbHRq1Eca2yOrPmw==",
+    "Name" : "\uD83D\uDCBBD e f a u l t",
+    "OnlineHost" : false,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "Default",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "o4XHBRKXdxbB23xeU/3LRTaFvYw1P/f/rLhe4WcqqqO/zhMaI50Fk4X+4iN5KIC4H/74v5nnsE+O+GGzsNFh6h9FykFepNZILhd4vj3LBzOSOkRr0CXWfjyqsGmBhLSMnocqU5ORettQdKJmmtNtBh02DsVFcmSHw/Lr2hxxlRMC4yFg3vbDYnKn++gMPYKcvkmlN/8dezqOHHKoxxmjoGwMjfb6JHZMR8NSv/5Rykddxmsrn3WTQ+zMPp9xmG7ecEXfTy1BsEC/wFLG/nAi9w==",
+    "Name" : "\uD83C\uDF0F™️ GLOBE/TM GSURF/GOTSCOMBO",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "GOSURF50 to 8080\nor\nGOTSCOMBKEA37\nGOTSCOMBODD90",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : true,
+    "Host" : "EVJNepliJGlmlqRWKWzWCTNeOR/dQrF03zk8+VXw6rHA8xxpLTfgdfQGMZCCv2oUmGNh0+f+NkaNQ1tGBZ/5KG+cbs8odndg2TJHTK9pu+HfexE9gQALJEIeBNGCSCVZz7oAvvocw80hDck+AifMt0MvNUYdOPucBaJjDiHjWXr3y05lcun+jjCZPVMiRogbwMam17p7JI3SizAh5Sgl6yIXgzIW82KFnEH0bh3SSuRGwV7IP47DpPujTsPCYKUYJ70Thd0HW3orP8QgzN0amQ==",
+    "Name" : "\uD83C\uDF0F™️ GLOBE/TM GAMES99",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "GLOBE/TM GAMES99\n30GB For 30Days\n1GB Everyday\n\n",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : true,
+    "Host" : "w9WmwDOtnFCcStOz52zE7leHVTGV1fcM9/fU5Xw9eSIFpcR9Hw42P9t9WWanyBFdp+4i3nkRrA6egAGYJWtvz6Tvx5W3cqt35aq6sc6KIccHw8yucFt8XzbQ32/q3opGzdd0qMDCcr+udgUYOwZPoz5OZTnxozuAkORr61f2AjQmZwqT7M6HPVyALTqP2V9KvCV0dNVvni0kOk3BvJL2Cy9izyAZYddNgQuxHGuEvqbbiKl7MJNie8eaPhmHg5URtaBuRxvNssZgsnMMovQMuQ==",
+    "Name" : "\uD83C\uDF0F™️ GLOBE/TM SNS/WNP",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "GLOBE/TM SNS means GOSHARE&SHOP \nWNP means GoWatch&Play\nMB allocation",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : true,
+    "Host" : "V6R9mpLVUZ4FvnLFenfl5mRAXb2M78iQWjc3seTzsUpYb7Gg0XvQK5fyflMgg/gjG9CXIheXcJjDf1NTWlCZoZYkYuFX08j7Qb52We3yFe7Q0quxUnbgMjoDCqTtV/HJs94SOQD43Eb5WbtTVI3rkywnvXnA0V1znDTftcIb4iodErFh5aw8/9qZi/QwTBWNagFTQxt8JR7s5XYoS7w1qb3RR0yQ5Jbw24/Ewww5rRqXs5BdLsfJy94l799o3ud2U9IZ1CNNgCN0LqDqce7LBw==",
+    "Name" : "™️ TM AN20/EASYSURF99/TMSURF70",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "Text AN20 send to 8080 valid 2days for only 20pesos 1GB per day TM only or EASYSURF99 send to 8080\nvalid 15days for only 99pesos 1GB per day or No Capping TM only\nTMSURF70 SECRET valid for 7days 1gb everyday",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "cnWDr79ALrSjEy4QJ0/Hh33wMN3Ht/w1r8bHwFSQUWu/OD7oLAQ5jEkxHhHIFosNfSZOmjEK8RJK/l/BtO9A4oXRbR4B4DO2WNuYsR4w8R4HWdtqRMHMkd8eq05nALKXku8B+LsaZYbMrcCdDj8dRCl518plIp8PHvW253NNtpVxWPZIW6zgpwYmSWRYotcZZWavK3R/Ik8CO2eJXQ2QJcYTu44wBeBrfNfJezj9XEYSx4L3H8Sbn+xSAVbORxEuQnpY/AB1c+3jdb5n8p8U5Q==",
+    "Name" : "\uD83C\uDF0F GLOBE GS50/GOTSCOMBODD70/90",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "GOSURF50 send to 8080(valid 3days)\n1gb daily for 3days\nor\nGOTSCOMBODD70 send to 8080(valid 7days)\nGOTSCOMBODD90 send to 8080(valid 7days\n1gb daily for 7days\n\nReset every day Yung 1GB FB/IG",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "1oZgKgTLIWvidsxKKvphN+qwHaWK9RaXPXcuZ/qE0vGOURxCv+sILGX6xnzxp8b7Y2bjCgsmIodBD42DZtMDhq7nAdt8LHhhcPYS2Cqb+PbgMM3u0Yv5avbFzM8i7jN5j84vCcBJGPkYTMIIiyB66T/qyd/XBM/qvngs3wHynuMvk9ODZk/evF3btP7XcTLnM6LipmHTxyW1eiabFgK2Mw==",
+    "Name" : "\uD83C\uDF1E SUN GIGAVIDEO",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "GIGAVIDEO or Youtube MB ",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "WhCaIs/f2LpGm7K+ruHrbvj/4/mJoOh9+EyuKGvRQh4DKsntB6RGj/i5oBEX+8CERRemNappvV6uGHh/cNQDjRG2vo2Fk5lMwCa7c3HmrZhk8MDCdck/K6Sm4anJtgMgmTokgABv8/T4JDOZZUoh1aVhF3H4m00r+C5nYl0n65pq7o3tMgIn5zTtkc1lngbEAktuVMIEanUHnxVxHzpqzg==",
+    "Name" : "\uD83C\uDF1E SUN TU 1 (TU50)",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "SUN NO LOAD NO PROMO TO CONNECT",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : true,
+    "Host" : "K+1ppj9IEy3OV2bb1B/fSAILvMAUE5Nq5FW6ID/vHtJlsvxX9FJ6MdfRuJTyOi9KNRLJ7zSNCtuJDxkCF5qRcUgKLu4IGYMxRNn5SkLJ+tXYvMBh7niuIpJtLAJR4Y7othgIENw+IYcohKpWWjvSqUBFctf/8XteyQkzA0htRR2QvQbCsbI3eMFS4IKL8U/A4lELfI3eEr/Lnz4BNdQsrR/TeMwI36sz2O7i/ttW1ZQOmljICvHZT2sd91QSkxojqJ7ODcnK210z4snV1UgUmw6rVHUJ7IWeSOGbcyWsY3wR10I0B4JcKQ7gM2mgSLK3/Dj5ZCUoEg4KmTX2b7/lsp3IpFH+q1CqPPlcDqFiW2zAtT79LwKebg5jc6J8N4h046eoz/JfibDb4CmBhJhicLrTVeCBwbViQRjATCbdwwRO84NCMRI3E3/a55YhIZb6NFfNIGBFdxAFJcz+xfcijBeyEUD8rtJ3lG8TPaqQ/zxW3TwGAK2dWZMPy076EuHtpHW8OzwlVynQNlHQL9BAW7Nizvjh1zesjdSRp3apT2nYTZBFhtdV+YcrbwcAZzdZQQEUslBmIqF3hKhKhxxv0CeRD9mRkEHaQ8tBuiRElBTvRJx/1386ecDWqLRd1lKr3f/bPQuwDJmi0AYcmCPXu6WYoyqxSUEmvTTEV/jG8QP7ElEfX24kNkFEWXZA4g8pliRJHm8fO6gBGOP5VxwbV9vL0V2FNoLlyrBrzdS7QQ4/KLOduhpiZUrb0fvlxHQoTzPRMHLQ8KFivGAVK98HLhQwW1UFNzQ6mGTfysmM/xZMn+SRU2eSdKz6y8Vc4MFHF2IbKWaTAiRXCuct740I09+uo04Yf6IMUtmJkw6V0QJ0CQ+YfFKlwMDvFYaHSMp3Ib8sAYAz1U63ilvfkcd/n/u0gF1u8fkJPQfrHcSbc7nxUzCGo1Ago7VV1RKa2mAgMzg9zsymkeBJ4/Ycy5nBywwPiASZvOZ5lnUq9QCQEZ7r+XMU+hyiqQayQJWES5Cw6BxqaIwKz1UiQvyi6XYTsfse9fi2xDQDjJM73DbqAeBqFUS5Y1EJkFfhHewirxDQEFUQk7/kyiYazmm96bbZ5NWImaZd50Ss2GZu7cvSZ4c=",
+    "Name" : "\uD83C\uDF1E SUN TU 2 (TU50/TU60)",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "SUN TU50&TU60 PROMO",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : true,
+    "Host" : "QLWfZkaEuDjf6ipiCLShGCwc/u/EMqJ4VrsnhAFMchXQrH9z0hHA17FdQnOrhqETqUfE12AxO/FdivbWVBdJ7FHBlK6Euse4n2BH8xsBP6PxhRlSAbYcQWkdhwXyNcer8wcLqWyzJNgidweLlQ4mvcJOLSejSjdvAssfYZEZQTc+05+/JJi/IP1r1VdDbQAIF8hzwFGC/zWrscCDiNt/DfFTcyDRc26Jgb4/Yx9j0N0JU3IdpOOuQrbTGwuD3DCQuonBi9nBaux+3ucKRTtlBA==",
+    "Name" : "\uD83C\uDF1E SUN TU 3 (TU150)",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "SUN TU150 Promo",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "pngYlMdCHNnhAD/yOzpwnjiPwts0XpQu4D1RkLU0cCNDcFw43zDa6K6quUZWRqVFoHgo3DiKiluI3tQbXNWf43CUZ8waj8rEGvD67WbsOejZjqP1mghgDwFpO+ZGNtgYjJxJFHwaDUbJIAmkdevCwcI8/O+tFNR0G2xNKvR1q3YuaZcwD8fm9xcQzU+Bcg5RyCM+S0Fsf8R0Q0uudAgldbR09/35lB+6HEfpdb7StBacXqVq0w6mQNjD0U3ql+SVaLiDBQS/HWkOPe9VcGqj+A==",
+    "Name" : "\uD83C\uDF1E SUN TU 4 (TU200)",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "SUN TU200 Promo",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 2,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "gE1xLUHtuMb7BcGb0gNMY4OvkI6GrW31DPwI9VQ52zd+S6/kN7CopZEX4fJSWVTEyN6+XGQQiEQZV7jL3gtYR7TdBlc4aL0jUWjlVBRx12vryC1mlmRvPq9uBqKIweR9Ke0ma+PK0OxjiEiIEjspqtSlzGakB3gBQI6iIzXAxFym0GMeFPXyfr8bd0KUzyQqtaYMRgUWo1wHNXRDti3+1cF9qkF7EJzFvihsobxenowkK00LahG2hzvGawbBwvXHKwIO5u3FOa8hKCu7OPfIzA==",
+    "Name" : "\uD83C\uDF1E SUN TU 5 (TU200)",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "TU200 valid 1month",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 3,
+    "ForwardHost" : true,
+    "FullHost" : true,
+    "Host" : "aj3EbxJLSJr3dvogFOQcZx9hdi+JHnPLItXiV9eJknMTNig/TeUTUocM9sORVMjjjEDZ1dB9KRZp6k5TGrlnsZwS7ESzbla47Q6mRBLrwOOAsrmCsVB2fkCAFD4eqE8Bc2acWBhOtWa6ofq9NeRxjYyHwPyT3oOjK+0bdY+12VytePPlhF5Y57N93HXz1pHVOUbfYdbSmU4hPJliDw2KwA==",
+    "Name" : "\uD83C\uDF1E SUN FLP 300",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "Sun Fix Load Plan 300",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : true,
+    "Host" : "I1eSlOrHSC4zB5jUpKm2IXpLnKZtHO/jvpv3tMTIndfYqo1wrmAc2IiTM1Pta0kqZ2dg5I8+DipkMDcA7oK/+gZslaQXl7Hd53ECSWBKyT3SSaSqMT2V2ganIMSu5TnRMxl71bhDFXcca4A6B0yprG0KVkVp1qzj6JuEbnYKH6bV6zckYZg15O0/7b3UeuD6X51gYpWc14EOwT2wCbwWWA==",
+    "Name" : "\uD83C\uDF1E SUN CTC 1(CTC50)",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "Sun CTC 50",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 3,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "LTZQaYbmE+x1P+151dvOr2WwhNS8UiEgKx/JhZO1h/6XTZD36LSX06RMmXn0y5i8H5ZgWAgCnnjPs2ZN60ONP4gmAxLotBJwyDcaoRtvZNaSinvNZgG2x/xn3wgUIanCGxpnzq2qf5Oe1v1ovp3pcan70W1nw+iDRCZ5OsM+qrJFBB0TCx2ypBde6OS+WgY6HzFtW+YBSQsBOwJdrpGnswL6Xzfu/Y6Kl05jh7dEmMnq9Kx2thjAnKHIPIQYWRRUKya/Pa/6OA3IoeLUuOGlGA==",
+    "Name" : "\uD83C\uDF1E SUN CTC 2(CTC20/CTC30)",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "Text CTC20 send 247(valid for 3days)\n\nText CTC30 send 247(valid for 3days)\n",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 3,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "R1jPukcss+V//5zzu5xRIRoXgbeqdraW4OZe+LSEJNE5VUIMB9EEZGcUqc30F5kQBy4VMS4YVt9j+jPEOGODCXQaIyFmWk9ozzSa4GJjOqnLqlePArNFX2lsnV3u9a0XRBZzssQCUGpzxy9ysVAfbX2jQCc6PLtlCwrqs1O5qBBUpuL6YlwEpxevMMxe6YOF850IQhwF7lWZlchLZnapL76QnRMBo/ZovfNZ6oBtq28X+eL8ad+Se3zmBba4ckCitZtwlmuWaWlZpZqmo5/jKw==",
+    "Name" : "\uD83C\uDF1E SUN Promo Magic(TU/CTC)",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "For Sun TU50/60/150 and For CTC20/30/50 Promo",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "k9oDrrfBD/B5rOKUztE2QEqB2DNWZzMWKz3qqPbAqudOn5/JBTppqHSc53xXcQjrXsKgMmdCf2LGx307qmdL6RoKegxg+3nJCynD9XUhOG263mSBgx6EqiXJ1zBQLX+mkcz0wJKCzAsgMDZZHLMQ0KnfIWljmc4tzTQtjhlfduXEe0pgnRaGjAuEDTUm0cd3ysqKnVpnNhDtIn8wN8sXPA==",
+    "Name" : "\uD83D\uDCF6 SMART GIGASURF/GIGAVIDEO 1",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "Smart LTE GIGAVIDEO EVERYDAY",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "xqTszXwZPXPg4Tk6e9WXZ+kNE3VgPWgXeRm6MxPoLchjyKpmWQsst6t7GQwJ4kZ0I6qKt+ClHIL8ApYCiHJMA76P1+MZRDBeaHS8N7KhfrxEuzxApgb8AeMJlidbzhPz0+IDIbgECJSELFVdBIyb7lFKXDKngGehU0jkBjyOnPSG9aFovle1gkqHiFBHRWmX078AP8uuvVPQ//y6HxSyzA==",
+    "Name" : "\uD83D\uDCF6 SMART GIGASURF/GIGAVIDEO 2",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "Smart LTE GIGAVIDEO EVERYDAY",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 2,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "X5GRnRRZQ7cK3eME6gI8bD5/mQlhAXEYPloaEfMbuN5qbttLWV1B2BlLWZCkMLro7WyCFY+hHu6Ej0hZuy6PMlz5QCu0koKKQ1bcL20duinoh3Mu5DXFeoel7TpRhJWQzICOwNgo1UbSz/KNhyiqYCGCRgV45BrGxNi9AtHnLEkcxKSNlCw5VsNObwMjUqwRFNCV/7bZYx6cGbh+zxdOdUfSC31isuI0WvU+d+0uCJhHyBkWC6rUIQN2wIyAR73LvYkJiwPWQxbSKCAZL7MBw5QU025KsELd5Ob17nXRWTRqtKzvqIzhwDla35H7UhMf",
+    "Name" : "\uD83D\uDCF6 SMART AT10/AT60/SAKTO20/30 1",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "Smart LTE AT10/60/Sakto20/30\n\nSMART LTE\nAT10 Text AT10 send to 9999\n(Valid 1day)\nAT60 Text AT60 send to 9999(Valid 5days) or Dial #123*3*9#\n\nSAKTO20 send to 9999(Valid 2days)\nSAKTO30 send to 9999(Valid 3days)\n\n",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 2,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "GPjC9MR9rvQilxJg75cTYxrKkstvAMcRs82+hGDAO5EVgY4cOJzNVDz/4NXPvzaxAkYu+DpXb2j83AeIYAVSmKnbrklKbKTJyH1jBps1mks7XmlhJWsAe9O7HL/pVg6VbN2p5pnXsQDS5Rgoi83apq1d2Tr35E5SHflcITQF3JXZNocmOPskauWHhZz6t5PHweky6tt/NLbs7SGFQLDPtmkbzTM+WLQP3/CljJJy7EY5vNCowGBNhpIYu6vm21qLAjAZPZUapXSNBOFM+cCtDZDnvD/4qUVw5ypxSbDgOXMagATkawx+RdXFO8jq0GFb",
+    "Name" : "\uD83D\uDCF6 SMART AT10/AT60/SAKTO20/30 2",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "Smart LTE AT10/60/Sakto20/30\n\nSMART LTE\nAT10 Text AT10 send to 9999\n(Valid 1day)\nAT60 Text AT60 send to 9999(Valid 5days) or Dial #123*3*9#\n\nSAKTO20 send to 9999(Valid 2days)\nSAKTO30 send to 9999(Valid 3days)",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 3,
+    "ForwardHost" : true,
+    "FullHost" : true,
+    "Host" : "ZQc5ds2c5aE4boY13SrXDP6o+/jzg2I/EKl4bTeW+Vk8hLWQXfct/iec+4nLwNtHQr4fSjIs6FceB4VckSf0REe9c4Vs35WNYsPhr3bAqyz9HY7ujkkp+ErF/iNmE+XMg29vio74Ftx6s+Wmt9oG+cIQ1N/r7HPUHtLf9PFTIPJ0QTTYHP/l1fm6zI8h4oJBmrEoOh3tJd8n4nP5J/T7Dr/qwCXpP3xSe4wSiwxfS3hQ/7Vg39VQeCV97u33CgQYI3kO3RXPe7maKCBGXmUIdqn1tFppxN0p0fUcKOanniyTdOUfjWjgCoHg2s6YINjW",
+    "Name" : "\uD83D\uDCF6 SMART GAMETIME100",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "Smart LTE Gametime100 bypass 300mb for 30days",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "Ab7PrXFVxMVjbHsC3oQyp69iMLdscsi6A6CxYHYXJYr3XCC4q8IsCFBY1Ko8G7+JrF1en0LYRWAhni5D2ZKzGgooC1j8oEJxge7cOgVwI8QAPPuiSmDJEwpSBQEeK+0jRLgCaHnGKlkNLL3LHsDxHOdGXWAkkwz3zFCRQM8R6s3724P5Aj7Nc6dQqq6UTS3WLSOiyhxG4p6zvaFiFN7tkUUbek+BJpHxuCNzvFflYgvRJHdleok/o7EAVvZGvRkqEdMqWP6/0Mz/159CVX1jgA==",
+    "Name" : "\uD83D\uDCA5 TNT ML10 1 (UPDATED)",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "ML10 Promo TNT Limit 1GB with Blocking",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "8u8bahZmBwC39iPqNc+ZniqXOKP2WxPfXv0OzBXZDZQRwr+YF23D/SIFUoHDRYsmsalz0z39Y2qRcShTvtAhZg+csT+/jJRm+ih5AQJ82OPL1wdWxSavQOAtgpGqIDUilRM9u4M2hZclRjWaFdKJVeDcMkarDqig/asagmNIh603eQdlQEpULUkh1occYTGFmCinfRNkmqKmQ0siolbjydNQBMT0m9woD9aw2q7C79PxBGQPXRd9eJrDAW+VSv+5mdSWLwPfTZdC8db9wSYUMA==",
+    "Name" : "\uD83D\uDCA5 TNT ML10 2 (UPDATED)",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "TNT ML10\nCapping 1GB with Blocking",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : true,
+    "Host" : "Q3flVtAZ+/m1xb5gazvuz+o34a3Qr+QnWwYQ3n7L21StuGdL6xCPbB+0kHqGSWtSeOVC9GAUod3as611IqLnZgQ05Qre6wMg2us7i7Zdl4JYu4Xf/HHhi03RnkgTcI0dXT/TBhVIxLJZVTM6aDV3AhSlO2qemR7tmCgwVsnqa8dJ6916+tDemikBNIgJ1WhgIyK3N9Mqji6rShyGoWKVtQ==",
+    "Name" : "\uD83D\uDCA5 TNT GIGASURF/GIGAVIDEO 1",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "TNT Free 1Gb YouTube everyday",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 2,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "86abq9MO6dw/TphvZkc3fH07MAMhQBhIhjp5baXl1z8Sgxi5NXo6hTW1HkPti3s66oYZR86LwLzHdXe8mDxbWXr8/QGSYIQGqL9EUhoxO74UzcrG8VfEb1TQmhiBdXP59LQ9Z7oQJSBNJfPwlaaHCvSKYjsoWCWf8iPMZ9f0B8ozhu9PJkz7BMbTMb1emwWX4Z5LNsx5dFgQofHHxoLMww==",
+    "Name" : "\uD83D\uDCA5 TNT GIGASURF/GIGAVIDEO 2",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "TNT Free 1Gb YouTube everyday",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 0,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "kfL9EnjvvwS/dw0mQKoMlgXyzo0hlpofOAO1XncYzcAFUsdvOG6Q+dBNojfiy+/oKDI9jXtir6ZkzlFVecZGqwrK4FL/ClXs7ETww6vRTplX9GwurVymTZz3Ms3Q08EYm9P+jvVdlOtzhi3EZf/qmLo/zzyY6QvD7xSSWUReErWvLy7QGn+RYSFj8/fkm+EGCd9x0XGWYUO765aORRgcBg==",
+    "Name" : "\uD83D\uDE18GIGASTORIES/ALLGIGA",
+    "OnlineHost" : false,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  } ],
+  "GuiCategories" : true,
+  "GuiFlags" : true,
+  "Changelogs" : "<strong>WELCOME TO Vicath VPN \uD83C\uDF89<br>\n<strong>\uD83D\uDCC6New Released! V1.4</strong><br><br>\n\nℹ️UPDATES:<br><br>\n\nMore Servers to Come<br><br> Fresh and Stables Servers with Ph for netflix and IWANT\n<br><br>Owners: Vicson ////Vidallon<br>Vicath<br><br>\n\n\n\nENJOY!\uD83E\uDD17\uD83E\uDD17. ",
+  "Version" : 1.4
+}
