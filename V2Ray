@@ -1,1 +1,188 @@
-{"Servers":[{"Name":"Singapore 1","Server":"prem1.vicath-vpn.cf"},{"Name":"Singapore 2","Server":"prem2.vicath-vpn.cf"},{"Name":"Singapore 3","Server":"prem3.vicath-vpn.cf"},{"Name":"Singapore 4","Server":"prem4.vicath-vpn.cf"},{"Name":"Singapore 5","Server":"prem5.vicath-vpn.cf"}],"Payloads":[{"Name":"Gomo No Load Promo 1","Host":"172.67.135.202"},{"Name":"Gomo  No Load Promo 2","Host":"104.21.26.86"},{"Name":"Gomo No Load Promo 3","Host":"104.21.5.125"},{"Name":"Gomo No Load Promo 4","Host":"help.gcash.com"},{"Name":"Gomo No Load Promo 5","Host":"gaccess.globe.com.ph"},{"Name":"Gomo No Load Promo 6","Host":"www.rivalri.com"},{"Name":"Smart/TNT/Sun No Load/No Promo 1","Host":"www.onetrust.com"},{"Name":"Smart/TNT/Sun No Load/No Promo 2","Host":"who.int"}],"Version":2.1}
+{
+	"Servers": [{
+			"ServerName": "Premium Singapore 1",
+			"ServerIP": "gtmprem1.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "Premium Singapore 2",
+			"ServerIP": "gtmprem2.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "Premium Singapore 3",
+			"ServerIP": "gtmprem3.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "Premium Singapore 4",
+			"ServerIP": "gtmprem4.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "Premium Singapore 5",
+			"ServerIP": "gtmprem5.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "Premium Singapore 6",
+			"ServerIP": "gtmprem6.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "Premium Singapore 7",
+			"ServerIP": "gtmprem7.internet-vpnsolution.onlinef"
+		},
+		{
+			"ServerName": "Premium Singapore 8",
+			"ServerIP": "gtmprem8.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "Premium Singapore 9",
+			"ServerIP": "gtmprem9.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "Premium Singapore 10",
+			"ServerIP": "gtmprem10.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "VIP Singapore 1",
+			"ServerIP": "gtmvip1.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "VIP Singapore 2",
+			"ServerIP": "gtmvip2.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "VIP Singapore 3",
+			"ServerIP": "gtmvip3.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "VIP Singapore 4",
+			"ServerIP": "gtmvip4.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "VIP Singapore 5",
+			"ServerIP": "gtmvip5.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "VIP Singapore 6",
+			"ServerIP": "gtmvip6.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "VIP Singapore 7",
+			"ServerIP": "gtmvip7.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "VIP Singapore 8",
+			"ServerIP": "gtmvip8.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "VIP Singapore 9",
+			"ServerIP": "gtmvip9.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "VIP Singapore 10",
+			"ServerIP": "gtmvip10.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "Private Philippines 1",
+			"ServerIP": "gtmph1.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "Private Singapore 2",
+			"ServerIP": "gtmpriv1.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "Private Singapore 3",
+			"ServerIP": "gtmpriv2.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "Private Singapore 4",
+			"ServerIP": "gtmpriv3.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "Private Singapore 5",
+			"ServerIP": "gtmpriv4.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "Private Singapore 6",
+			"ServerIP": "gtmpriv5.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "Private Singapore 7",
+			"ServerIP": "gtmpriv6.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "Private Singapore 8",
+			"ServerIP": "gtmpriv7.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "Private Singapore 9",
+			"ServerIP": "gtmpriv8.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "Private Singapore 10",
+			"ServerIP": "gtmpriv9.internet-vpnsolution.online"
+		},
+		{
+			"ServerName": "Private Singapore 11",
+			"ServerIP": "gtmpriv10.internet-vpnsolution.online"
+		}
+	],
+	"Payloads": [{
+			"PayloadName": "GTM No Load/No Speed Capped New 1",
+			"PayloadHost": "::ffff:45ab:fa25"
+		},
+		{
+			"PayloadName": "GTM No Load/No Speed Capped 2",
+			"PayloadHost": "104.17.64.2"
+		},
+		{
+			"PayloadName": "GTM No Load/No Promo 3",
+			"PayloadHost": "shop.globe.com.ph"
+		},
+		{
+			"PayloadName": "GTM No Load/No Promo 4",
+			"PayloadHost": "www.globe.com.ph"
+		},
+		{
+			"PayloadName": "Gomo SIM 2",
+			"PayloadHost": "172.67.135.202"
+		},
+		{
+			"PayloadName": "Gomo Sim 3",
+			"PayloadHost": "104.21.26.86"
+		},
+		{
+			"PayloadName": "Gomo Sim 4",
+			"PayloadHost": "104.21.5.125"
+		},
+		{
+			"PayloadName": "Gomo SIM 5",
+			"PayloadHost": "help.gcash.com"
+		},
+		{
+			"PayloadName": "Gomo SIM 6",
+			"PayloadHost": "www.rivalri.com"
+		},
+		{
+
+			"PayloadName": "Smart/TNT/Sun No Load/No Promo New 1",
+			"PayloadHost": "104.31.81.190"
+		},
+		{
+
+			"PayloadName": "Smart/TNT/Sun No Load/No Promo New 2",
+			"PayloadHost": "mernattitle.info"
+		},
+		{
+
+			"PayloadName": "Smart/TNT/Sun No Load/No Promo New 3",
+			"PayloadHost": "116.203.253.243"
+		},
+		{
+
+			"PayloadName": "Smart/TNT/Sun No Load/No Promo 4",
+			"PayloadHost": "116.203.253.235"
+		}
+	],
+	"Version": {
+		"VersionCode": "2.6",
+		"ChangeLogs": "User based authentication\nSmart/TNT/Sun No Load/No Promo"
+	}
+}
